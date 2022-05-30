@@ -1,0 +1,20 @@
+{
+  "name": "multiplayer-chess",
+  "version": "1.0.0",
+  "description": "> “Of chess, it has been said that life is not long enough for it, but that is the fault of life, not chess.” – William Napier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"cd client && npm run start\" \"cd server && npm run start:dev\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aushakov95/multiplayer-chess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aushakov95/multiplayer-chess/issues"
+  },
+  "homepage": "https://github.com/aushakov95/multiplayer-chess#readme"
+}
