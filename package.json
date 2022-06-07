@@ -7,14 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "concurrently \"cd client && npm run start\" \"cd server && npm run start:dev\""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aushakov95/multiplayer-chess.git"
-  },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aushakov95/multiplayer-chess/issues"
-  },
-  "homepage": "https://github.com/aushakov95/multiplayer-chess#readme"
+  "license": "ISC"
 }
